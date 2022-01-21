@@ -1,0 +1,18 @@
+{
+  "movies": [
+    {
+      "id": "cd4c1cc7-683d-4ff8-ae45-f4ba0b8fb284",
+      "name": "Pushpa",
+      "details": "awesome tollywood movie",
+      "genre": "Action",
+      "rating": "5"
+    },
+    {
+      "id": "83f2639a-b7a5-4692-b27e-a4aa7bac5714",
+      "name": "The rock",
+      "details": "awesome hollywood movie",
+      "genre": "Action",
+      "rating": "4"
+    }
+  ]
+}
